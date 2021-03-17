@@ -10,7 +10,7 @@ setup(
     author_email     = 'bkaunyun@naver.com',
     url              = 'https://github.com/byungguan-yoon/pylsprotocol',
     download_url     = 'https://github.com/byungguan-yoon/pylsprotocol/archive/main.zip',
-    install_requires = ['socket'],
+    install_requires = [''],
     packages         = find_packages(exclude = ['docs', 'example']),
     keywords         = ['PLC', 'protocol', 'LS electric'],
     python_requires  = '>=3',
